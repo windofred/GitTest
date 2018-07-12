@@ -6,7 +6,7 @@ package com.migu.spms.controller;
 public class HelloController {
 
     public void test() {
-
+        System.out.println("hello world");
     }
 
 }
